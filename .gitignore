@@ -1,0 +1,15 @@
+.idea
+.project
+.DS_Store
+node_modules
+.vscode/
+*.sublime*
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.swp
+*.swo
+*xunit.xml
