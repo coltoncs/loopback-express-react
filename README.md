@@ -1,3 +1,7 @@
+# Setup
+
+This is the backend server for my LB+Express+React application, the frontend portion (named 'client' in this repo) can be found [here.](https://github.com/pizdetz/lb-express-frontend) This repo is still a work in progress and meant only for personal educational purposes. For information on setting this up on your own machine, follow the directions below and in the [frontend README.](https://github.com/pizdetz/lb-express-frontend/blob/main/README.md)
+
 # @loopback/example-express-composition
 
 This is an example of how to mount LoopBack 4 REST API on a simple
